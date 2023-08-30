@@ -3,7 +3,6 @@
 //Date: 08-30-23
 //Description: cout variables/chap2.
 //==========================================
-//
 #include <iostream>
 
 using namespace std;
